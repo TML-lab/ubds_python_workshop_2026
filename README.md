@@ -6,5 +6,3 @@ This workshop is in the new Shelby Biosciences building.
 Off of University Blvd.
 
 The lunch break was 12.15-1.15 pm.
-
-A line we do not need but will be committed.
