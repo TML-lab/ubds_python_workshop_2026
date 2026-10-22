@@ -4,3 +4,5 @@ A UBDS hosted Python workshop covering shell scripting, Git, and Python I attend
 
 This workshop is in the new Shelby Biosciences building.
 Off of University Blvd.
+
+The lunch break was 12.15-1.15 pm.
